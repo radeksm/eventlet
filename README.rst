@@ -86,4 +86,4 @@ The built html files can be found in doc/_build/html afterward.
 Supported Python versions
 =========================
 
-Python 3.7-3.12 are currently supported.
+Python 3.8, 3.9, 3.10, 3.11, 3.12 are currently supported.
